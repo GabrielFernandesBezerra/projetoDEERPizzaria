@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #faa923;
+}
+.formulario {
+    margin-right: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.minipizza {
+    width: 600px;
+    height: 700px;
+    margin-left: 205px ;
+    margin-top: 40px;
+}
+.b {
+    width: 600px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.button {
+    margin-left: 280px;
+}
+h3 {
+    color: rgb(255, 255, 255);
+    margin-left: 150px;
+    font-size: xx-large;
+}

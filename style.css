@@ -1,0 +1,166 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}   
+   .pp {
+    background:linear-gradient(to left, #ffc75f,  #9e1616);
+    display: flex;
+    width: 1690px;
+    height: 200px;
+    align-items: center;
+    justify-content: space-evenly;
+    color: rgb(255, 255, 255);
+   
+.bp {
+    height: 30px;
+    width: 550px;
+}
+.bl {
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+    margin-right: 100px;
+    margin-left: 700px;
+    transition: 0.1s;
+}
+.bl:hover{
+    transform: scale(1.05);
+}
+.bc {
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+    transition: 0.1s; 
+}
+.bc:hover {
+    transform: scale(1.05);
+}
+.minipizza {
+    width: 200px;
+    height: 200px;
+}
+   }
+.espaco {
+    width: 1690px;
+    height: 20px;
+    background: black;
+}
+   
+.sp {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   background: linear-gradient(to bottom,#9e1616, #ffc75f);
+    width: 1690px;
+    height: 700px;
+}
+
+.pizza {
+width: 900px;
+height: 500px;
+}
+p {
+font-size: 17px;
+}
+h3 {
+font-size: 35px;
+}
+.e2 {
+    width: 1690px;
+    height: 20px;
+    background: black;
+}
+.produtos {
+     display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+   background: linear-gradient(to bottom,#9e1616, #ffc75f);
+   width: 1690px;
+   height: 700px;
+}
+.pizzao {
+    width: 300px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: 0.1s;
+}
+.pizzao:hover {
+    transform: scale(1.05);
+}
+.pizzat {
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: 0.1s;
+}
+.pizzat:hover {
+    transform: scale(1.05);
+}
+.pizzar {
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: 0.1s;
+}
+.pizzar:hover {
+    transform: scale(1.05);
+}
+.e3 {
+    width: 1690px;
+    height: 20px;
+    background: black;
+}
+.shows {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+   background: linear-gradient(to left,#16739e, #ff3e3e);
+   width: 1690px;
+   height: 700px;
+}
+.ptt {
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: 0.1s; 
+}
+.ptt:hover {
+    transform: scale(1.05);
+}
+.fp {
+    width: 400px;
+    background: rgb(255, 255, 255);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 1);
+    cursor: pointer;
+    transition: 0.1s;   
+}
+.fp:hover {
+    transform: scale(1.05);
+}
